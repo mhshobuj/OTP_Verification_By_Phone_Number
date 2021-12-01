@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "84520467877",
+    "project_id": "metal-loan-apps",
+    "storage_bucket": "metal-loan-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84520467877:android:d4de9afc43637cf5d5bc4c",
+        "android_client_info": {
+          "package_name": "com.dma.otp_verification_with_phone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84520467877-hd6dmm8ms4v4aijr5ca5qeoik3ath2f0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dma.otp_verification_with_phone",
+            "certificate_hash": "b663d2294e559c30eb5232645f849abadc6483c9"
+          }
+        },
+        {
+          "client_id": "84520467877-tcrnndgouktf7qpe6iks5j46k3rl8cr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACjdaw1GGQJvjm8H8TUSQwAuuimzJ055c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84520467877-tcrnndgouktf7qpe6iks5j46k3rl8cr0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

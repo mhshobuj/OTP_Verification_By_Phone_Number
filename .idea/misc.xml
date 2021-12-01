@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Mehedi-2021/DMA_Mehedi/OTP_verification_with_phone/app/src/main/res/drawable/border_left.xml" value="0.25833333333333336" />
+        <entry key="..\:/Mehedi-2021/DMA_Mehedi/OTP_verification_with_phone/app/src/main/res/layout/activity_home.xml" value="0.228125" />
+        <entry key="..\:/Mehedi-2021/DMA_Mehedi/OTP_verification_with_phone/app/src/main/res/layout/activity_otp_send.xml" value="0.23846153846153847" />
+        <entry key="..\:/Mehedi-2021/DMA_Mehedi/OTP_verification_with_phone/app/src/main/res/layout/activity_otp_verify.xml" value="0.2421875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
